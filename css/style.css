@@ -154,7 +154,9 @@ body {
     width: 370px;
     padding: 40px 0;
 }
-
+img {
+    width: 100%;
+}
 .contacts-section,
 .tech-skills-section,
 .soft-skills-section{
